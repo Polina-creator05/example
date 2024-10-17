@@ -9,7 +9,8 @@ public class Launcher {
         int b = 3;
         System.out.println(add(a, b));
         System.out.println(sub(a, b));
-        System.out.println(mul(a, b));
+        System.out.println(mul(a,
+                b));
 
     }
 
