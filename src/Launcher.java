@@ -11,6 +11,7 @@ public class Launcher {
         System.out.println(sub(a, b));
         System.out.println(div(a, b));
         System.out.println(min(a, b));
+        System.out.println("jdfkd");
 
 
     }
